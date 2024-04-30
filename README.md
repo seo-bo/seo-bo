@@ -4,7 +4,7 @@
 
 ## 사용하는 언어
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo&logoColor=gray"/></a>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chika)](https://solved.ac/chika/)
 
