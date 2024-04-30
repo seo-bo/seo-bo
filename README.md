@@ -1,6 +1,6 @@
 ## <center>👨🏻‍💻Languages
 
-<center>
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -9,7 +9,7 @@
 <br/>
 
 ## <center>🏃🏻BOJ
-<center>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chika)](https://solved.ac/chika/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chika)](https://solved.ac/chika/)
 
 <!--
 **seo-bo/seo-bo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
