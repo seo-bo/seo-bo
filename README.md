@@ -1,5 +1,9 @@
 ### 안녕하세용 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seo-bo)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=gray"/></a>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chika)](https://solved.ac/chika/)
 
 <!--
