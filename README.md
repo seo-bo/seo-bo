@@ -8,12 +8,7 @@
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </center>
-<br/>
-
-## <center>🏃🏻BOJ </center>
-<center>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chika)](https://solved.ac/chika/)
+<br/
 
 </center>
 
