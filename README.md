@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chika)](https://solved.ac/chika)
-[![CodeForces Profile](https://cf.leed.at?id={chika0_0})](https://codeforces.com/profile/{chika0_0})
+[![CodeForces Profile](https://cf.leed.at?id=chika0_0)](https://codeforces.com/profile/chika0_0)
 </center>
 <br/
 
