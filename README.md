@@ -13,12 +13,14 @@
 
 </center>
 
-My Original Problem <br>
-KUMOH 문자열 - https://www.acmicpc.net/problem/34324 <br>
-쉬었음 부원 - https://www.acmicpc.net/problem/34327 <br>
-대칭 XOR - https://www.acmicpc.net/problem/34328 <br>
-해피 밀푀유 - https://www.acmicpc.net/problem/34332 <br>
-@Override - https://www.acmicpc.net/problem/34333 <br>
+<h2>My Original Problem</h2>
+<ul>
+  <li><strong>KUMOH 문자열</strong> - <a href="https://www.acmicpc.net/problem/34324">34324</a></li>
+  <li><strong>쉬었음 부원</strong> - <a href="https://www.acmicpc.net/problem/34327">34327</a></li>
+  <li><strong>대칭 XOR</strong> - <a href="https://www.acmicpc.net/problem/34328">34328</a></li>
+  <li><strong>해피 밀푀유</strong> - <a href="https://www.acmicpc.net/problem/34332">34332</a></li>
+  <li><strong>@Override</strong> - <a href="https://www.acmicpc.net/problem/34333">34333</a></li>
+</ul>
 
 <!--
 **seo-bo/seo-bo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
