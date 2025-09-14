@@ -13,12 +13,12 @@
 
 </center>
 
-My Original Problem
-https://www.acmicpc.net/problem/34324
-https://www.acmicpc.net/problem/34327
-https://www.acmicpc.net/problem/34328
-https://www.acmicpc.net/problem/34332
-https://www.acmicpc.net/problem/34333
+My Original Problem <br>
+https://www.acmicpc.net/problem/34324 <br>
+https://www.acmicpc.net/problem/34327 <br>
+https://www.acmicpc.net/problem/34328 <br>
+https://www.acmicpc.net/problem/34332 <br>
+https://www.acmicpc.net/problem/34333 <br>
 
 <!--
 **seo-bo/seo-bo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
