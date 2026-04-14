@@ -6,7 +6,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={chika})](https://solved.ac/{chika})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chika)](https://solved.ac/chika)
 [![Atcoder Profile](https://atcoder-badge.kro.kr?id=chika0_0)](https://atcoder.jp/users/chika0_0)
 </center>
 <br/
